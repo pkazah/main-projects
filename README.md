@@ -1,2 +1,2 @@
 # main-projects
-A reporsitory for a for my bigger projects 
+A repository for a for my bigger projects 
